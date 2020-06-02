@@ -1,2 +1,2 @@
 # Bootcamp2020
-For Practice in work
+For learning in bootcamp
